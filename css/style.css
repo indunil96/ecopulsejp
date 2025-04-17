@@ -17,11 +17,11 @@ body {
 }
 .navbar-custom .navbar-brand{
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .navbar-custom .nav-link{
   color: #fff;;
-  font-size: 2rem;
+  font-size: 1.5rem;
   
 } 
 .navbar-custom .nav-link.active {
